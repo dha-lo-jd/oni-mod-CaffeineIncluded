@@ -1,0 +1,6 @@
+﻿<Project>
+    <PropertyGroup>
+        <GameManagedPath>C:\Program Files (x86)\Steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\Managed</GameManagedPath>
+        <ModInstallPath>$(USERPROFILE)\Documents\Klei\OxygenNotIncluded\mods\local\CaffeineIncluded</ModInstallPath>
+    </PropertyGroup>
+</Project>

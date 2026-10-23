@@ -1,0 +1,6 @@
+﻿title: "Caffeine Included"
+description: "Espresso Machine now restores 35% stamina over 60 seconds and lowers Athletics by 2 instead of raising it by 1."
+requiredDlcIds: []
+forbiddenDlcIds: []
+minimumSupportedBuild: 744825
+version: "1.0.0"
