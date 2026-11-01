@@ -1,14 +1,8 @@
-﻿using HarmonyLib;
 using KMod;
-using PeterHan.PLib.Core;
 
 namespace CaffeineIncluded;
 
+// Harmony patches are discovered and applied automatically by UserMod2.OnLoad.
 public sealed class CaffeineIncludedMod : UserMod2
 {
-    public override void OnLoad(Harmony harmony)
-    {
-        base.OnLoad(harmony);
-        PUtil.InitLibrary();
-    }
 }
