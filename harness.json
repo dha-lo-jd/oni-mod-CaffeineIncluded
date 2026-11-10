@@ -1,0 +1,5 @@
+{
+  "build": ["dotnet build CaffeineIncluded.sln -v q -p:ModInstallPath=F:/_System/Documents/Klei/OxygenNotIncluded/mods/local/CaffeineIncluded"],
+  "required_mods": ["CaffeineIncluded.Local"],
+  "save": "05 all research.sav"
+}
