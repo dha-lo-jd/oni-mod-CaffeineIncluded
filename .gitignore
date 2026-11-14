@@ -5,3 +5,4 @@ riderModule.iml
 /_ReSharper.Caches/
 Local.Build.props
 .harness-runs/
+.idea/
